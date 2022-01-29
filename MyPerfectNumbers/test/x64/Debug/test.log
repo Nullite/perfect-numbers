@@ -1,0 +1,8 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(510,5): warning MSB8028: промежуточный каталог (x64\Debug\) содержит файлы, которые используются совместно с другим проектом (test.vcxproj).  Это может привести к ошибкам очистки и перестроения.
+  check.cpp
+  handler.cpp
+  input.cpp
+  output.cpp
+  myPerfectNumbers.cpp
+  Создание кода...
+  test.vcxproj -> C:\Users\expte\Desktop\ДЗ\С++\MyPerfectNumbers\x64\Debug\my perfect numbers.exe
